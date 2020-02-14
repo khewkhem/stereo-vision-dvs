@@ -2,6 +2,7 @@
 
 * C++ implementation of a belief-propagation event-based stereo matching algorithm (originally implemented in MATLAB [EMP](https://github.com/harryxz/EMP)). 
 * program takes in as input a specified csv file (file location prompted by user, e.g. 'data/box1.csv') containing DVS events and outputs a csv file containing stereo-matched events with associated disparity.
+* Report is available [HERE](https://github.com/khewkhem/stereo-vision-dvs/blob/master/event-based-stereo.pdf)
 
 ## Getting Started
 
